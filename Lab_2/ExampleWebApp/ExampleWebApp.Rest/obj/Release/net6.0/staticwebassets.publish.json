@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3OP+KVUyZoUhRs39PVugOFrAm6792pAZmDmvMAHENPc=",
+  "Source": "ExampleWebApp.Rest",
+  "BasePath": "_content/ExampleWebApp.Rest",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
